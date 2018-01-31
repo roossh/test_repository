@@ -65,6 +65,6 @@ Operaattori | Merkitys | Esimerkki
 
 #### Syntaksi
 
-<p><i>Syntaksi</i> kuvaa tapaa kirjoittaa koodia. Kuten oikeissa kielissä, myös ohjelmointikielissä tulee noudattaa sääntöjä. Koska R on matalantason kieli, niin tämän syntaksi on hieman joustavampaa kuin eräiden korkean tason kielten kanssa (Java, JavaScript, C++...). Tämä tarkoittaa käytännössä sitä, että R:n perusteet on nopeammin opittavissa, mutta myös sitä, että tietyissä asioissa R on hitaampaa (tosin sitä on nopeampi kirjoittaa) ja R rajoittuu aika pitkälti tilastoanalyysiin ja datavisualisointiin siinä missä kielillä kuten Java voidaan rakentaa hyvinkin kattavia ohjelmistoja. Biologille kuitenkin juuri R on erittäin hyödyllinen työkalu ja esimerkiksi Javaa harvemmin käytetään biologipiireissä.</p>
+<p><i>Syntaksi</i> kuvaa tapaa kirjoittaa koodia. Kuten oikeissa kielissä, myös ohjelmointikielissä tulee noudattaa sääntöjä. R on kuitenkin kielenä joustavampi verrattuna moniin muihin ohjelmointikieliin (Java, JavaScript, C++...), joten tämän perusteet on myös helpompi omaksua.</p>
 
 <p>R-ohjelmisto toimii niin, että luettaessa skriptiä se lukee sitä ylhäältä alas: tämän vuoksi on enemmän kuin suositeltavaa, että kirjoitat koodia aina tekstieditoriisi niin, että luot muuttujat aina ennen kuin niitä käytetään ja pidät koodirivit loogisessa järjestyksessä.</p>
