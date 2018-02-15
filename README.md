@@ -68,3 +68,12 @@ Operaattori | Merkitys | Esimerkki
 <p><i>Syntaksi</i> kuvaa tapaa kirjoittaa koodia. Kuten oikeissa kielissä, myös ohjelmointikielissä tulee noudattaa sääntöjä. R on kuitenkin kielenä joustavampi verrattuna moniin muihin ohjelmointikieliin (Java, JavaScript, C++...), joten tämän perusteet on myös helpompi omaksua.</p>
 
 <p>R-ohjelmisto toimii niin, että luettaessa skriptiä se lukee sitä ylhäältä alas: tämän vuoksi on enemmän kuin suositeltavaa, että kirjoitat koodia aina tekstieditoriisi niin, että luot muuttujat aina ennen kuin niitä käytetään ja pidät koodirivit loogisessa järjestyksessä.</p>
+
+#### Kommentointi
+
+<p><i>Kommentilla</i> tarkoitetaan erityistä osaa koodista, jota kone ei lue. Kommenttien ideana on, että näillä kirjoittaja selkeyttää itselleen ja muille, mitä koodissa oikein tapahtuu. Onkin hyvä käytäntö kommentoida koodia mahdollisimman usein.</p>
+
+<p>R-ohjelmistossa kommentti alkaa aina #-merkillä.</p>
+
+tänne tulee viel lisää kommenteista
+
