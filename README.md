@@ -77,3 +77,19 @@ Operaattori | Merkitys | Esimerkki
 
 tänne tulee viel lisää kommenteista
 
+#### Komennon rakenne
+
+<p>Koska R on monipuolinen ohjelma, on tällä useita eri tapoja kirjoittaa komentoja. Yhtä oikeaa tapaa komentojen kirjoittamiseen ei siis ole mahdollista määrittää. Joitain R:n kulmakiviä voidaan kuitenkin tarkastella.</p>
+<p><code><-</code>- ja <code>=</code>-merkit tarkoittavat, että jotain tallennetaan muistiin. Tällöin rivillä tulee vasemmalle muuttujan nimi, johon arvo tallennetaan, sitten jompi kumpi merkeistä ja lopuksi komento, joka halutaan tallentaa. Esimerkiksi alla olevassa esimerkissä luodaan muuttuja, jonka nimeksi annetaan <code>muuttujan_nimi</code> ja tähän tallennetaan arvo 1.</p>
+ 
+ ```R
+muuttujan_nimi <- 1
+muuttujan_nimi
+```
+<p>Alempi rivi tekstieditorissa <i>kutsuu</i> muuttujaa <code>muuttujan_nimi</code>. Kun tämä rivi ajetaan, niin konsoliin tulostuu tällöin muuttujan arvo:</p>
+
+```R
+> muuttujan_nimi
+[1] 1
+```
+<p>Muuttujien toimintaan tutustutaan lisää osassa "Muuttujat".</p>
